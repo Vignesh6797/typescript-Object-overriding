@@ -14,5 +14,4 @@ const dbData = {
 // Build response object
 
 const response = { ...payload, ...dbData };
-
 console.log(response);
